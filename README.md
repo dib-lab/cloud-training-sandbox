@@ -33,6 +33,9 @@ Related topics that may or may not warrant additional discussion.
 
 ## Use cases
 
+During the materials development workshop at DIBSI, we will focus on one or more use cases as a way of anchoring our discussion about what cloud-related compentencies a particular scientist or group of scientists will need to be successful.
+Here are some ideas.
+
 - single scientist, GWAS analysis on Rice 3k genome data
 - bioinformatics core facility, deploying an RNA-seq processing pipeline
 - research consortium, distributing data and analysis code for a collaborative project
